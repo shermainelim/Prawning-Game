@@ -1,0 +1,10 @@
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\bin\Debug\netcoreapp2.1\PrawningPlace.deps.json
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\bin\Debug\netcoreapp2.1\PrawningPlace.runtimeconfig.json
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\bin\Debug\netcoreapp2.1\PrawningPlace.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\bin\Debug\netcoreapp2.1\PrawningPlace.dll
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\bin\Debug\netcoreapp2.1\PrawningPlace.pdb
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\obj\Debug\netcoreapp2.1\PrawningPlace.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\obj\Debug\netcoreapp2.1\PrawningPlace.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\obj\Debug\netcoreapp2.1\PrawningPlace.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\obj\Debug\netcoreapp2.1\PrawningPlace.dll
+C:\Users\Shermaine\source\repos\PrawningPlace\PrawningPlace\obj\Debug\netcoreapp2.1\PrawningPlace.pdb
